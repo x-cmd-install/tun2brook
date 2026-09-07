@@ -5,7 +5,7 @@ about:
   head: 0dcf31c
   archived: false
   latestVersion: "v20260101"
-  collectedAt: 2026-09-07T06:05:43Z
+  collectedAt: 2026-09-07T18:32:11Z
 timeline:
   created: 2020-06-15
   lastCommit: 2024-12-18
@@ -79,7 +79,7 @@ total:
   commit: 140
 ---
 path: /home/runner/.x-repo/github.com/txthinking/tun2brook
-collectedAt: 2026-09-07T06:05:45Z
+collectedAt: 2026-09-07T18:32:13Z
 loc:
   Go:
     code: 2254
@@ -100,7 +100,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:05:45+00:00
+  collectedAt: 2026-09-07T18:32:14+00:00
   platform:
     darwin/arm64:
       name:  ipio_darwin_arm64
