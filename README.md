@@ -29,7 +29,7 @@ Total: **2,254** lines of code across **15** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v20260101` (2025-12-31)
+- **Latest**: `v20270101` (2026-09-15)
 - **Last commit**: 2024-12-18
 - **Assets in release**: 6
 
@@ -39,29 +39,29 @@ Total: **2,254** lines of code across **15** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 4 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 21 · **Open issues**: 6 · **Commits**: 140
+- **Releases**: 5 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 21 · **Open issues**: 6 · **Commits**: 140
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-16 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-16 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-19 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-24 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-16 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-17 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-17 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-19 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-20 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-25 | 5 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [ipio_darwin_amd64](https://github.com/txthinking/tun2brook/releases/download/v20250808/ipio_darwin_amd64) | 28.7 MiB | `native/darwin/x64` |
-| [ipio_darwin_arm64](https://github.com/txthinking/tun2brook/releases/download/v20250808/ipio_darwin_arm64) | 27.9 MiB | `native/darwin/arm64` |
-| [ipio_linux_amd64](https://github.com/txthinking/tun2brook/releases/download/v20250808/ipio_linux_amd64) | 28.1 MiB | `native/linux/x64` |
-| [ipio_linux_arm64](https://github.com/txthinking/tun2brook/releases/download/v20250808/ipio_linux_arm64) | 27.1 MiB | `native/linux/arm64` |
-| [ipio_windows_amd64.exe](https://github.com/txthinking/tun2brook/releases/download/v20250808/ipio_windows_amd64.exe) | 29.2 MiB | `native/win/x64` |
-| [ipio_windows_arm64.exe](https://github.com/txthinking/tun2brook/releases/download/v20250808/ipio_windows_arm64.exe) | 27.9 MiB | `native/win/arm64` |
+| [ipio_darwin_amd64](https://github.com/txthinking/tun2brook/releases/download/v20270101/ipio_darwin_amd64) | 30.4 MiB | `native/darwin/x64` |
+| [ipio_darwin_arm64](https://github.com/txthinking/tun2brook/releases/download/v20270101/ipio_darwin_arm64) | 28.9 MiB | `native/darwin/arm64` |
+| [ipio_linux_amd64](https://github.com/txthinking/tun2brook/releases/download/v20270101/ipio_linux_amd64) | 29.8 MiB | `native/linux/x64` |
+| [ipio_linux_arm64](https://github.com/txthinking/tun2brook/releases/download/v20270101/ipio_linux_arm64) | 28.2 MiB | `native/linux/arm64` |
+| [ipio_windows_amd64.exe](https://github.com/txthinking/tun2brook/releases/download/v20270101/ipio_windows_amd64.exe) | 31.0 MiB | `native/win/x64` |
+| [ipio_windows_arm64.exe](https://github.com/txthinking/tun2brook/releases/download/v20270101/ipio_windows_arm64.exe) | 29.0 MiB | `native/win/arm64` |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for tun2brook lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T06:31:46Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T06:28:37Z._
