@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 31256760,
       "digest": "sha256:6f9ba80d56ad28f274c85bc01d2e3db78a0118c299af135d815dac81f13379ab",
-      "download_count": 6,
+      "download_count": 8,
       "created_at": "2026-09-15T04:53:11Z",
       "updated_at": "2026-09-15T04:53:27Z",
       "browser_download_url": "https://github.com/txthinking/ipio/releases/download/v20270101/ipio_linux_amd64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 32466432,
       "digest": "sha256:5ef930a98746ed3ae5eb8ee6ac6987f335e69ded270b90dd4212c2e657b4e3d9",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-15T04:53:42Z",
       "updated_at": "2026-09-15T04:53:59Z",
       "browser_download_url": "https://github.com/txthinking/ipio/releases/download/v20270101/ipio_windows_amd64.exe"
