@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 30333634,
       "digest": "sha256:8c48cb802505b155db4d522012868e705a91269085e1486a9d2be12f7a8f8e99",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-01T09:15:26Z",
       "updated_at": "2026-10-01T09:15:56Z",
       "browser_download_url": "https://github.com/txthinking/ipio/releases/download/v20270101/ipio_darwin_arm64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 31256760,
       "digest": "sha256:92b9ef5e42ca18c53cea047182acd79af61b342ced22855ce7f456cb48eeaf7a",
-      "download_count": 9,
+      "download_count": 11,
       "created_at": "2026-10-01T09:13:53Z",
       "updated_at": "2026-10-01T09:14:22Z",
       "browser_download_url": "https://github.com/txthinking/ipio/releases/download/v20270101/ipio_linux_amd64"
